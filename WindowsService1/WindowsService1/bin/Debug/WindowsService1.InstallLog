@@ -1,0 +1,99 @@
+﻿'C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe derlemesinde RunInstallerAttribute.Yes özniteliğine sahip ortak yükleyiciler bulunamadı.
+'C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe derlemesinde RunInstallerAttribute.Yes özniteliğine sahip ortak yükleyiciler bulunamadı.
+Yükleyici olmadığından InstallState dosyası kaldırılmalı.
+'C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Service1 hizmeti yükleniyor...
+Service1 hizmeti başarıyla yüklendi.
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+'C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Service1 EventLog kaynağı kaldırılıyor.
+Service1 hizmeti sistemden kaldırılıyor...
+Service1 hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Service1 hizmeti yükleniyor...
+Service1 hizmeti başarıyla yüklendi.
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\kkasi\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
